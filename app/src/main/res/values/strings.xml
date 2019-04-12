@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">reportcityv5</string>
+    <string name="registrar">Registrar</string>
+    <string name="info_text">¡La mejor app para tu ciudad!!</string>
+    <string name="crear_boton">Crear una cuenta</string>
+    <string name="etiqueta_email">Email</string>
+    <string name="etiqueta_password">Contraseña</string>
+    <string name="recordar_check">Recordar Clave</string>
+    <string name="olvidar_text">Olvide mi contraseña</string>
+    <string name="entrar_boton">Ingresar</string>
+    <string name="imageDesc">logo</string>
+    <string name="title_activity_registro">Registro Usuarios</string>
+    <string name="etiqueta_nombre">Ingrese sus nombres</string>
+    <string name="etiqueta_apellidos">Ingrese sus apellidos</string>
+    <string name="etiqueta__regpassword1">Ingrese una contraseña</string>
+    <string name="etiqueta__regpassword2">Vuelve a ingresar su contraseña</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_main">ReportCity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_incidencia">Incidencia</string>
+    <string name="incidencia_titulo_label">Título</string>
+    <string name="incidencia_barrio_label">Sector / Barrio</string>
+    <string name="desc_incidencia_label">Descripción Adicional</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_categoria">Seleccione una categoria</string>
+    <string name="title_activity_mostrar_incidencias">MostrarIncidenciasActivity</string>
+
+    <!--ListItem View-->
+    <string name="inc_titulo">Título Incidencia</string>
+    <string name="desc_inci">Descripción</string>
+    <string name="fecha_inci">Fecha Creación</string>
+    <string name="inc_estado">Estado</string>
+
+
+</resources>

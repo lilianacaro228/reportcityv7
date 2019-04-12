@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btn_guarda_incidencia"
+        android:icon="@drawable/guardar"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/btn_borrar_incidencia"
+        android:icon="@drawable/delete"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/btn_editar_incidencia"
+        android:icon="@drawable/editar"
+        android:title=""
+        app:showAsAction="ifRoom" />
+</menu>

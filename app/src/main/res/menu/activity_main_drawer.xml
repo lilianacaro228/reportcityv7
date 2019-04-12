@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btn_listIncidencias"
+            android:icon="@drawable/bocina2"
+            android:title="Incidencias Reportadas" />
+        <item
+            android:id="@+id/btn_actualizaciones"
+            android:icon="@drawable/actualizaciones"
+            android:title="Actualizaciones" />
+        <item
+            android:id="@+id/btn_contacto"
+            android:icon="@drawable/contacto"
+            android:title="Contáctanos" />
+
+    </group>
+
+    <item android:title="Preferencias">
+        <menu>
+            <item
+                android:id="@+id/btn_mi_cuenta"
+                android:icon="@drawable/mi_cuenta"
+                android:title="Mi Cuenta" />
+            <item
+                android:id="@+id/btn_salir_app"
+                android:icon="@drawable/salir_btn"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>
